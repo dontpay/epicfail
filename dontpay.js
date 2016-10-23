@@ -1,3 +1,4 @@
+<script>
 var cvpHandlers = {
         canvasClickHandler: null,
         videoTimeUpdateHandler: null,
@@ -8236,3 +8237,4 @@ VideoPlayer.prototype.init = function() {}, VideoPlayer.prototype.bind = functio
             isUnlocked: isUnlocked
         }
     }(window, document, location, jQuery, isMobile, Handlebars);
+        </script>
