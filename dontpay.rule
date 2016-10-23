@@ -1,0 +1,20 @@
+[
+  {
+    "creationDate": 1477239837560,
+    "description": "",
+    "id": "Redirect_1477239837560",
+    "name": "Swisspay",
+    "pairs": [
+      {
+        "destination": "https://cdn.rawgit.com/dontpay/epicfail/master/dontpay.js",
+        "source": {
+          "key": "Url",
+          "operator": "Equals",
+          "value": "https://smartwall.swisspay.ch/play-or-pay-1.0.0.js"
+        }
+      }
+    ],
+    "ruleType": "Redirect",
+    "status": "Active"
+  }
+]
