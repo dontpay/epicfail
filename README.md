@@ -9,5 +9,5 @@ with
 Install Requestly extension in Chrome
 Create new Redirect Rule
   Equals: https://smartwall.swisspay.ch/play-or-pay-1.0.0.js
-  Destination: https://cdn.rawgit.com/dontpay/epicfail/master/dontpay.js
+  Destination: https://cdn.jsdelivr.net/gh/dontpay/epicfail/dontpay.js
 => dontpay.rule
