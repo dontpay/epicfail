@@ -6,7 +6,7 @@
     "name": "Swisspay",
     "pairs": [
       {
-        "destination": "https://cdn.rawgit.com/dontpay/epicfail/master/dontpay.js",
+        "destination": "https://cdn.jsdelivr.net/gh/dontpay/epicfail/dontpay.js",
         "source": {
           "key": "Url",
           "operator": "Equals",
